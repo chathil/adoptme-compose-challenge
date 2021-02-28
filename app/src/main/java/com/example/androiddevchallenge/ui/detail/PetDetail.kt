@@ -58,7 +58,7 @@ import com.example.androiddevchallenge.ui.theme.AdoptmeTheme
 import com.example.androiddevchallenge.ui.theme.AlphaNearTransparent
 import com.example.androiddevchallenge.ui.theme.padding
 import com.example.androiddevchallenge.ui.utils.LocalSysUiController
-import java.util.*
+import java.util.Locale
 
 @Composable
 fun PetDetail(
